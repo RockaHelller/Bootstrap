@@ -1,0 +1,93 @@
+*{
+margin: 0;
+padding: 0;
+font-family: 'Roboto', sans-serif;
+box-sizing: border-box;
+}
+
+body{
+    overflow: hidden;
+}
+
+
+#login .box .right{
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+#login .box .left{
+    height: 100vh;
+}
+
+#login .box .left .welcome{
+    font-weight: 400;
+}
+
+#login .box .left .paragraph{
+    color: #b3b3b3;
+    font-weight: 300;
+}
+
+#login .box .left form{
+    padding: 0px 15px;
+}
+
+#login .box .left .remember-me, .forgot{
+    color: #888;
+    font-size: 14px;
+}
+
+.btn-primary{
+    padding: 14px 0px !important;
+}
+
+.remember:checked{
+    background-color: #fb771a;
+    border-color: #fb771a;
+}
+
+.login{
+    background-color: #fb771a;    
+}
+
+.login{
+    border:none;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    transition: 0.2s;
+}
+
+.login:hover{
+    background-color: #fb771a;
+    filter: brightness(0.9);
+    opacity: 0.8;
+}
+
+.input-form{
+    padding: 14px 10px !important;
+    border: none;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.before-login{
+    margin-bottom: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
